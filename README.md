@@ -1,6 +1,5 @@
 # About me
 
-- 🔭 I’m currently working on my coursework and tasks from WebCat
-- 🌱 I’m currently learning git, github, c#
+- 🌱 I’m currently learning git, c#, vue js
 - 📫 How to reach me: madinadzanaeva670@gmail.com
 - 😄 Pronouns: she/her
